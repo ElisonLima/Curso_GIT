@@ -2,5 +2,5 @@
 
 Arquivo da aula de GitHub para iniciantes:
 
-Como funciona
+Como funciona: Saiba mais com Elison
 
