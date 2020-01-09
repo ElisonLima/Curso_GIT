@@ -1,0 +1,2 @@
+git config --global user.email <'e-mail'>
+Configurando e-mail no git

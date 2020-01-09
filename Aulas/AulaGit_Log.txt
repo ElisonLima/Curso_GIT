@@ -1,0 +1,5 @@
+git log = mostra os log's de commit
+
+git shortlog = mostra um resumo dos log's de commit
+
+

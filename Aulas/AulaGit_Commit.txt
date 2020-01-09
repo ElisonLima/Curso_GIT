@@ -1,0 +1,6 @@
+git commit <arquivo>
+
+Commit: Faz um snapshot dos arquivos em fila no staged
+
+uma boa prática é colocar as alterações feitas nos comentários para se localizar
+facilmente pelos Log's

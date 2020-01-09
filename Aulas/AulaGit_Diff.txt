@@ -1,0 +1,2 @@
+git diff = Comando exibe as diferenças entre os arquivos
+muito útil antes de cada commit

@@ -1,0 +1,5 @@
+git add <arquivo> ; Exemplo: git add Readme.md 
+
+Adiciona o arquivo para monitoramento, alterando o status dele de "Untracked" para o status de "Unmodified"|"Staged"
+
+Alteração Teste
